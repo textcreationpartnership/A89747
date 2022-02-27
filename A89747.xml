@@ -1,0 +1,2015 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names of the knights, citizens, and burgesses of the House of Commons assembled in Parliament, begun at Westminster, 3 Novem. 1640 as they continued and were elected and sworne members of the same house, untill this present 11 of July. 1648.</title>
+            <title>Lists. 1640-11-03.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89747</idno>
+            <idno type="STC">Wing N134</idno>
+            <idno type="STC">Thomason E454_17</idno>
+            <idno type="STC">ESTC R1056</idno>
+            <idno type="EEBO-CITATION">99858860</idno>
+            <idno type="PROQUEST">99858860</idno>
+            <idno type="VID">110919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110919)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names of the knights, citizens, and burgesses of the House of Commons assembled in Parliament, begun at Westminster, 3 Novem. 1640 as they continued and were elected and sworne members of the same house, untill this present 11 of July. 1648.</title>
+                  <title>Lists. 1640-11-03.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Registers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110919:1" rendition="simple:additions"/>
+            <p>THE NAMES OF THE KNIGHTS, CITIZENS, and BURGESSES Of the HOUSE of COMMONS Aſſembled in PARLIAMENT, Begun at <hi>Weſtminſter, 3 Novem.</hi> 1640 as they continued and were elected and ſworne Members of the ſame Houſe, untill this preſent 11 of <hi>July.</hi> 1648.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_members_of_Parliament">
+            <pb facs="tcp:110919:2"/>
+            <head>The Names of the Knights, Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes of the Houſe of Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament, begun at <hi>Weſtminſter, 30 Novem.</hi> 1640. as they con<g ref="char:EOLhyphen"/>tinued and were elected and ſworne Members of the ſame Houſe untill this preſent 11. of <hi>July.</hi> 1648.</head>
+            <div type="county">
+               <head>Bedfordſhire.</head>
+               <list>
+                  <item>
+                     <hi>OLiver Luke Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Roger Burgoine Baronet.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Bedford Towne.</head>
+                  <item>Beuchamp St. Iohn Knight.</item>
+                  <item>Samuell Luke Knight.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Buckingham<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>EDmund Weſt Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>George Fleetwood Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Buckingham Towne</head>
+                  <item>Peter Temple Knight and Baronet.</item>
+                  <item>John Dormer Eſquire.</item>
+               </list>
+               <list>
+                  <head>Wickham Burg.</head>
+                  <item>Thomas Lane Eſquire.</item>
+                  <item>Richard Browne Eſquire.</item>
+               </list>
+               <list>
+                  <head>Ailisbury Burg.</head>
+                  <item>Thomas Scott Eſquire.</item>
+                  <item>Symon Mayne Eſquire.</item>
+               </list>
+               <list>
+                  <head>Amerſham Burg.</head>
+                  <item>William Drake Knight.</item>
+                  <item>Francis Drake Eſquire.</item>
+               </list>
+               <list>
+                  <head>Wendover Burg.</head>
+                  <item>Thomas Harriſon Eſquire.</item>
+                  <item>Richard Ingoldeſbie Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Marlow Burg.</head>
+                  <item>Bulſtrode Whitlock Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Peregrine Hoby Eſquire.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Berkſhire.</head>
+               <list>
+                  <item>
+                     <hi>FRancis Pyle Baronet.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Martyn Eſquire.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>New Windſore Burg.</head>
+                  <item>Cornelius Holland Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Richard Winwood Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Reading Burg.</head>
+                  <item>Tanfeild Vachell Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Daniel Blagrave Eſquire.</item>
+               </list>
+               <list>
+                  <head>Abingdon Burg.</head>
+                  <item> </item>
+               </list>
+               <list>
+                  <head>Wallingford Burg.</head>
+                  <item>Edm. Dunche Eſquire.</item>
+                  <item>Robert Packer Eſquire.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Cornwall County</head>
+               <list>
+                  <item>HUgh Buſkawen Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Nicholas Trefuſis Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <pb n="2" facs="tcp:110919:3"/>
+                  <head>Laintreſton alias Dunchwit Burg.</head>
+                  <item>Thomas Gewen Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Harris Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Lyſkard Burg.</head>
+                  <item>George Kekewich Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Povey Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Leſtwithiell Burg.</head>
+                  <item>Jo. Mainard Kt. of the Bath</item>
+                  <item>Francis Hollis Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Truroe Burg.</head>
+                  <item>John Rolls Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Francis Rowſe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Bodmyn Burg.</head>
+                  <item>Anthony Nichols Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Waller Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Heſton Burg.</head>
+                  <item>John Penros Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Thomas Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Salraiſh Burg.</head>
+                  <item>John Thynn Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Hen. Wylles Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Camelſford Burg.</head>
+                  <item>William Sey Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Granpond Burg.</head>
+                  <item>John Trevor Knight.</item>
+                  <item>James Cambell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Eaſtlowe Burg.</head>
+                  <item>Francis Buller Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Moyle Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Weſtloe alias Port<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igan.</head>
+                  <item>John Arrundell Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Arrundell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Penryn Burg.</head>
+                  <item>John Bamfield Baronet.</item>
+               </list>
+               <list>
+                  <head>Tregonie Burg.</head>
+                  <item>Thomas Trevor Kt. &amp; Bar.</item>
+                  <item>John Carewe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Boſsinny Burg.</head>
+                  <item>Chriſtopher Yelverton Kt.</item>
+                  <item>Lyonell Copley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>St. Ibes Burg.</head>
+                  <item>Fra. Godolphin Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Feilder Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Fowry Burg.</head>
+                  <item>Nicholas Gold Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>St. Iermins Burg.</head>
+                  <item>Benjamin Valentine Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Moyle <hi>jun.</hi> Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Michell Burg.</head>
+                  <item>Charles Lord Carre.</item>
+               </list>
+               <list>
+                  <head>Newport Burg.</head>
+                  <item> </item>
+               </list>
+               <list>
+                  <pb n="3" facs="tcp:110919:3"/>
+                  <head>St. Mawes Burg.</head>
+                  <item>Richard E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſey Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Preiſtley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Willington Burg.</head>
+                  <item>Edw. Lord Clynton.</item>
+                  <item>Thomas Dacres Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Cumberland County.</head>
+               <list>
+                  <item>
+                     <hi>William Ermyn Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Richard Tolſon Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Carliſſle Burg.</head>
+                  <item>Richard Barveys Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Cholmley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Cockermouth Burg.</head>
+                  <item>John Hippeſley Knight.</item>
+                  <item>Fra. Allen Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Cambridge<g ref="char:EOLunhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>Dudley North Kt. &amp; Bar</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Ruſſell Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Cambridge Univerſity</head>
+                  <item>Jo Lowrey Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Nath. Bacon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Cambridge Town.</head>
+                  <item>Oliver Crumwell Eſquire,</item>
+                  <item>Lieut. Generall.</item>
+                  <item>Henry Lucas Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Cheſhire.</head>
+               <list>
+                  <item>
+                     <hi>William Brereton Baron.</hi> 
+                  </item>
+                  <item>
+                     <hi>George Boothe Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Cheſter Citie.</head>
+                  <item>William Edwards Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Radcliff Eſ<abbr>q</abbr> Record.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Derbiſhire.</head>
+               <list>
+                  <item>
+                     <hi>John Curſon Baronet.</hi> 
+                  </item>
+                  <item>
+                     <hi>John Coke Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Darbie Towne.</head>
+                  <item>Nath. Hallowes Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Gell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Devonſhire.</head>
+               <list>
+                  <item>
+                     <hi>Nicholas Martin Knight.</hi> 
+                  </item>
+               </list>
+               <list>
+                  <head>Exceter Citie.</head>
+                  <item>Symon ſnow Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Sam. Cleark Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Totnes Burough.</head>
+                  <item>Oliver St. John Eſquire, His</item>
+                  <item>Majeſties Solicitor.</item>
+                  <item>John Maynard Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Plymouth Towne.</head>
+                  <item>Sir John Younge Knight.</item>
+                  <item>John Waddon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Barnſtaple Burg.</head>
+                  <item>Philip Skippon Eſ<abbr>q</abbr> Serje<g ref="char:EOLhyphen"/>ant Major Generall.</item>
+                  <item>John Doddridge Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Plymton Burg.</head>
+                  <item>Hugh Potter Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Chriſtopher Martyn Gent.</item>
+               </list>
+               <list>
+                  <head>Lavyſtock Burg.</head>
+                  <item>Edm. Fowell Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Eliz. Crymes Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Clifton, Dartmouth, Hardnes.</head>
+                  <item>Sam. Browne Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Tho. Boone Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <pb n="4" facs="tcp:110919:4"/>
+                  <head>Bere-Alſton Burg.</head>
+                  <item>Charles Pym Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Fra. Drake Baronet.</item>
+               </list>
+               <list>
+                  <head>Liverton Burg.</head>
+                  <item>John Elford Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Robert Shapcot Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Aſperton Burg.</head>
+                  <item>Edm. Fowell Knight.</item>
+                  <item>John Northcott Kt. &amp; Bar.</item>
+               </list>
+               <list>
+                  <head>Honiton Burg.</head>
+                  <item>Walter Younge Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Charles Vaughan Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Okehampton Burg.</head>
+                  <item>Laurence Whitaker Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Thomas Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Dorſetſhire.</head>
+               <list>
+                  <item>
+                     <hi>John Browne Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Thomas Trenchard Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Poole Towne.</head>
+                  <item>John Pyne Eſ<abbr>q</abbr>
+                  </item>
+                  <item>George Skutt Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Dorcheſter Towne.</head>
+                  <item>Denſell Holles Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Denis Bond Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Lyme Regis Burg.</head>
+                  <item>Edmund Prideaux Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Richard Roſe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Waymouth Burg.</head>
+                  <item>Walter Erle Knight.</item>
+                  <item>Math. Allen Gent.</item>
+               </list>
+               <list>
+                  <head>Melcombe Reg. Burg.</head>
+                  <item>Will Sydenham <hi>jun.</hi> Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Bond Dr. of Law.</item>
+               </list>
+               <list>
+                  <head>Bridport Burg.</head>
+                  <item>Roger Hyll Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Celye Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Shafteſburie Burg.</head>
+                  <item>John Frye Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Bingham Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Wareham Burg.</head>
+                  <item>John Trenchard Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Tho. Erle Eſ<abbr>q</abbr>
+                     <g ref="char:punc">▪</g>
+                  </item>
+               </list>
+               <list>
+                  <head>Corfe Caſtle.</head>
+                  <item>Gyles Greene Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Fra. Chettell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Eſſex.</head>
+               <list>
+                  <item>
+                     <hi>MArtin Lumley Knight. and Baronet.</hi>
+                  </item>
+                  <item>
+                     <hi>William Maſſam Baronet.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Colchefier Burg.</head>
+                  <item>Harbottle Grymſton Bar.</item>
+                  <item>John Sayer Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Malden Burg.</head>
+                  <item>Henry Mildmay Knight.</item>
+                  <item>John Clotworthy Knight.</item>
+               </list>
+               <list>
+                  <head>Harwiche Burg.</head>
+                  <item>Thomas Cheeke Knight.</item>
+                  <item>Capell Luckyn Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Glouceſter<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>NAthan. Stephens Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>John Seymor Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="5" facs="tcp:110919:4"/>
+                  <head>Glouceſter Citie.</head>
+                  <item>Thomas Pury Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Lenthall Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Cirenceſter Towne.</head>
+                  <item> </item>
+               </list>
+               <list>
+                  <head>Lewkeſburie Burg.</head>
+                  <item>Edw. Stephens Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Stephens Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Huntington<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>VAlentine Walton Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Edw. Mountague Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Huntington Towne.</head>
+                  <item>George Mountague Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Abraham Burrell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Hereford<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>William Litton Kt.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Dacrees Kt.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>St. Alvans Towne.</head>
+                  <item>Richard Jennings Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Wingat Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>He<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ford Town.</head>
+                  <item>Charles Viſc. Crauborne.</item>
+                  <item>William Leman Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Hereford<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>RObert Harley Knight of the Bathe.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Harley Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Hereford Citie.</head>
+                  <item>Edmond Weaver Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Benet Hoskins Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Weblie Burg.</head>
+                  <item>Robert Andrews Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Crowther Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Tempſter Burg.</head>
+                  <item>Walter Kirle Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Birch Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Kent Coun<g ref="char:EOLhyphen"/>ty.</head>
+               <list>
+                  <item>
+                     <hi>AUguſtine Skinner Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>John Boys Eſ<abbr>q</abbr>
+                        <g ref="char:punc">▪</g>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Canterburie Citie.</head>
+                  <item>Edward Maſters Knight.</item>
+                  <item>John Nutt Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Rocheſter Citie.</head>
+                  <item>Thomas Walſingham Kt.</item>
+                  <item>Richard Lee Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Maidſtone Burg.</head>
+                  <item>Humphrey Tufton Knight.</item>
+                  <item>Thomas Twiſden Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Quinborough.</head>
+                  <item>Michael Liveſey Baronet.</item>
+                  <item>Auguſtine Garland Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Lincolne<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>JOhn Wray Kt. &amp; Baronet.</hi> 
+                  </item>
+                  <item>
+                     <hi>Edward Ayſcoughe Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Lincolne City.</head>
+                  <item>Thomas Grantham Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Lyſter Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Boſton Towne.</head>
+                  <item>Anthony Irby Knight.</item>
+                  <item>William Eliys Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <pb n="6" facs="tcp:110919:5"/>
+                  <head>Great Grimeſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Burg.</head>
+                  <item>William Wray Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edw. Roſſiter Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Staniford Burg.</head>
+                  <item>Thomas Hatcher Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Weaver Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Grantham Burg.</head>
+                  <item>William Armyn Baronet.</item>
+                  <item>Henry Pelham Eſq.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Leiceſterſhire</head>
+               <list>
+                  <item>
+                     <hi>ARthur Haſilrigg Baronet.</hi> 
+                  </item>
+                  <item>
+                     <hi>Henry Smith Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Leiceſter Towne.</head>
+                  <item>Tho. Lo. Gray of Grobye.</item>
+                  <item>Peter Temple Eſq:</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Lancaſhire.</head>
+               <list>
+                  <item>
+                     <hi>RAlph Aſhton Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Rich. Houghton Bar.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Lancaſter Lown.</head>
+                  <item>Robert Bynloſſ Baronet.</item>
+                  <item>Thomas Fell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Preſton in Amondernes.</head>
+                  <item>Rich. Shuttleworth Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Laughton Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Newton Burg.</head>
+                  <item>William Aſhurſt Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Peter Brookes Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Wigan Burg.</head>
+                  <item>Allex. Rigbie Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Holcrofte Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Clitheroe Burg.</head>
+                  <item>Ralph Aſhton Baronet.</item>
+                  <item>Rich. Shuttleworth Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Liberpoole Burg.</head>
+                  <item>Rich. Wynn, Kt. &amp; Baronet.</item>
+                  <item>John Moore Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Middleſex County.</head>
+               <list>
+                  <item>
+                     <hi>GIlbert Gerrard Baronet.</hi> 
+                  </item>
+               </list>
+               <list>
+                  <head>Weſtminſter City.</head>
+                  <item>John Glynn Eſ<abbr>q</abbr> Record.</item>
+                  <item>William Bell Gent.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>London.</head>
+               <list>
+                  <item>
+                     <hi>THomas Soam Knight.</hi> 
+                  </item>
+                  <item>
+                     <hi>Iſaac Pennington Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+                  <item>Samuel Vaſſell Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Ven Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Monmouth<g ref="char:EOLunhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>IOhn Herbert Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Henry Herbert Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Monmouth Town.</head>
+                  <item>Thomas Pury <hi>jun.</hi> Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Northampton<g ref="char:EOLunhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>GIlbert Pickering Baron.</hi> 
+                  </item>
+                  <item>
+                     <hi>John Dreydon Baronet.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Perterborough.</head>
+                  <item>William Lo. Fitz-William.</item>
+                  <item>Robert Napper Kt. &amp; Bar.</item>
+               </list>
+               <list>
+                  <head>Northampton</head>
+                  <item>Zouche Tate Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Richard Knightley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <pb n="7" facs="tcp:110919:5"/>
+                  <head>Brackley Burg.</head>
+                  <item>John Crew Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Martyn Lyſter Knight.</item>
+               </list>
+               <list>
+                  <head>Higham Ferris.</head>
+                  <item>Edward Harby Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Nottingham<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>IOhn Hutchinſon Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Jervaſe Pigot Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Nottingham Towne.</head>
+                  <item>Gilbert Myllington Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Fra. Perpoint Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Eaſt Retford Burg.</head>
+                  <item>William Lyſter Knight.</item>
+                  <item>Francis Thornhaughe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Norfolke County.</head>
+               <list>
+                  <item>
+                     <hi>IOhn Potts Kt. &amp; Baronet.</hi> 
+                  </item>
+                  <item>
+                     <hi>John Palgrave Kt. &amp; Bar.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Norwich Citie.</head>
+                  <item>Thomas Atkyn Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Eraſmus Erle Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Linn-Regis.</head>
+                  <item>Thomas Toll Gent.</item>
+                  <item>Edm. Hudſon Gent.</item>
+               </list>
+               <list>
+                  <head>Yarmouth Town.</head>
+                  <item>Myles Corbet Eſ<abbr>q</abbr> Record.</item>
+                  <item>Edward Owner Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Thetford Burg.</head>
+                  <item>Tho. Woodhowſe Knight &amp; Baronet.</item>
+                  <item>Framlingham Gawdy Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Caſtle Riſuge.</head>
+                  <item>John Holland Baronet.</item>
+                  <item>John Spelman Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Northumber<g ref="char:EOLhyphen"/>land County.</head>
+               <list>
+                  <item>
+                     <hi>IOhn Fenwick Kt. &amp; Barron.</hi> 
+                  </item>
+                  <item>
+                     <hi>William Fenwick Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Newcaſtle upon Tyne.</head>
+                  <item>John Blackſton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Robert Eliſon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rwick upon Tweed.</head>
+                  <item>Tho. Withrington Knight.</item>
+                  <item>Robert Scawin Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Morpeth Burrough.</head>
+                  <item>George Fenwick Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Fierys Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Oxfordſhire.</head>
+               <list>
+                  <item>
+                     <hi>THom. Viſcount Wenman.</hi> 
+                  </item>
+                  <item>
+                     <hi>James Fienis Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Oxford Univerſity.</head>
+                  <item>John Selden Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Oxford Town.</head>
+                  <item>John Doyley Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Nixon Alderman.</item>
+               </list>
+               <list>
+                  <head>Woodſtock Burg.</head>
+                  <item>Will. Lenthall Eſ<abbr>q</abbr> Speaker</item>
+                  <item>Robert Pie Knight.</item>
+               </list>
+               <list>
+                  <head>Banburie Burg.</head>
+                  <item>Nathaniel Fienis Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Rutland<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <pb n="8" facs="tcp:110919:6"/>
+                  <item>
+                     <hi>IAmes Harrington Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Wayte Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Surrey County.</head>
+               <list>
+                  <item>
+                     <hi>RIchard Owneſlow Knight</hi> 
+                  </item>
+                  <item>
+                     <hi>Ambroſe Browne Baronet.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Southwarke Burg.</head>
+                  <item>George Thomſon Eſ<abbr>q</abbr>
+                  </item>
+                  <item>George Snelling Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Belchingley Burg.</head>
+                  <item>John Evelyn Knight.</item>
+                  <item>Edward Biſh <hi>junior</hi> Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Rigate Burg.</head>
+                  <item>William Lord Viſcount Mounſon.</item>
+                  <item>George Evelyn Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Guilford Burg.</head>
+                  <item>Robert Parkehurſt Knight.</item>
+               </list>
+               <list>
+                  <head>Gatton Burg.</head>
+                  <item>Thomas Sands Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Owfield Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Haſlemer Burg.</head>
+                  <item>Poynings Moore, Knight and Baronet.</item>
+                  <item>John Goodwyn Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Staffordſhire</head>
+               <list>
+                  <item>
+                     <hi>IOhn Bowyer Eſquire,</hi> 
+                  </item>
+                  <item>
+                     <hi>Thomas Crompton Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Litchfield City.</head>
+                  <item>Michael Noble Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Michael Bidulph Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Stafford Towne.</head>
+                  <item>John Swynfen Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Leigh Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>New Caſtle under Lyne.</head>
+                  <item>John Merrick Knight.</item>
+                  <item>Sam. Terrick Eſq.</item>
+               </list>
+               <list>
+                  <head>Tamworth Burg.</head>
+                  <item>Sir Peter Wentworth Kt. of the Bath.</item>
+                  <item>George Abbott Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Salopſhire.</head>
+               <list>
+                  <item>
+                     <hi>IOhn Corbet Baronet.</hi>
+                  </item>
+                  <item>
+                     <hi>Humfry Edwards Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+               </list>
+               <list>
+                  <head>Shrewsbury City.</head>
+                  <item>Thomas Hunt Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Maſham Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Bridgenorth</hi> alias <hi>Bruges.</hi>
+                  </head>
+                  <item>Robert Clives Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Robert Charlton Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Ludlow Burg.</head>
+                  <item>Thomas Mackworth Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Moore Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Great Wenlock Burg.</head>
+                  <item>William Perpoint Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Humfry Briggs Knight.</item>
+               </list>
+               <list>
+                  <head>Biſhops Caſtle Burg.</head>
+                  <item>Eſay Thomas Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Corbet Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Southampton County.</head>
+               <list>
+                  <item>
+                     <hi>RIchard Whitehead Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Richard Norton Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="9" facs="tcp:110919:6"/>
+                  <head>Wincheſter City.</head>
+                  <item>John Liſle Eſquire.</item>
+                  <item>Nicholas Love Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Southampton Towne.</hi>
+                  </item>
+                  <item>George Gallop Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Exton Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Porteſmouth Towne.</head>
+                  <item>Edward Dowce Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Boat Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Yarmouth Burg.</head>
+                  <item>Philip Lord Liſle</item>
+                  <item>John Leighe Knight.</item>
+               </list>
+               <list>
+                  <head>Petes<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſield Burg.</head>
+                  <item>William Lewes Baronet.</item>
+                  <item>William Uvedall Knight.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Newport</hi> alias <hi>Medena.</hi>
+                  </head>
+                  <item>William Stephens Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Henry Worſley Baronet.</item>
+               </list>
+               <list>
+                  <head>Stockbridge Borough.</head>
+                  <item>Will. Heveningham Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Jepſon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>New Towne.</head>
+                  <item>John Barrington Knight and Baronet.</item>
+                  <item>John Bulkeley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Chriſt Church Burg.</head>
+                  <item>John Kempe Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Richard Edwards Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>VVhit-Church Burg.</head>
+                  <item>Thomas Jervoys Knight.</item>
+                  <item>Thomas Huſſey Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Lymington Burg.</head>
+                  <item>John Batton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Henry Campion Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Andover Burg.</head>
+                  <item>Robert Wallop Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Sir William Waller Knight</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Suffolke County.</head>
+               <list>
+                  <item>
+                     <hi>NAtha. Barnardiſton Kt.</hi> 
+                  </item>
+                  <item>
+                     <hi>Philip Parker Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Ip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſwich Burg.</head>
+                  <item>John Gurdon Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Francis Bacon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Dunwiche.</head>
+                  <item>Anthony Bedingfield Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Robert Brewſter Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Ortford Burg.</head>
+                  <item>Will. Platers Kt. and Barr.</item>
+                  <item>Charles Le Groſſ Kt.</item>
+               </list>
+               <list>
+                  <head>Ald-Burg.</head>
+                  <item>Squire Bence Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Allex. Bence Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Sudburie Burg.</head>
+                  <item>Symons D'Ewes Kt. &amp; Bar.</item>
+                  <item>Brumpton Gurdon <hi>junior.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Sudburie Burg.</head>
+                  <item>Roger North Knight.</item>
+                  <item>Maurice Barrow Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <pb n="10" facs="tcp:110919:7"/>
+                  <head>St. Edmonds Bury.</head>
+                  <item>William Springham Bar.</item>
+                  <item>Tho. Barnardiſton Kt.</item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Somerſet<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <item>
+                     <hi>IOhn Harrington Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>John Horner Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Briſtoll City.</head>
+                  <item>Richard Aldworth Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Lucas Hodges Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Bathe City.</head>
+                  <item>Allex. Popham Eſ<abbr>q</abbr>
+                  </item>
+                  <item>James Aſhe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Wells City.</head>
+                  <item>Clement Walker Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Lyſlibone Long Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Taunton Burg.</head>
+                  <item>George Searle Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Joh. Palmer Dr. of Phiſick.</item>
+               </list>
+               <list>
+                  <head>Bridgewater Burg.</head>
+                  <item>Peter Wroth Knight.</item>
+                  <item>Robert Blake Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Minehead Burg.</head>
+                  <item>Edward Popham Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Walter Strickland Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Ilcheſter Burg.</head>
+                  <item>William Strode Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Thomas Hodges Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Milborne Port.</head>
+                  <item>Thomas Grove Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Carrent Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Suſſex County.</head>
+               <list>
+                  <item>
+                     <hi>THomas Pelham Baronet.</hi> 
+                  </item>
+                  <item>
+                     <hi>Anthony Stapeley Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Chicheſter City.</head>
+                  <item>Sir John Temple Knight.</item>
+                  <item>Henry Peck Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Horſham Burg.</head>
+                  <item>Thomas Middleton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Hall. Ravenſcroft Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Midhurſt Burg.</head>
+                  <item>William Cawley Eſ<abbr>q</abbr>
+                  </item>
+                  <item>George Norton Baronet.</item>
+               </list>
+               <list>
+                  <head>Lewes Burg.</head>
+                  <item>Herbert Morley Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Henry Shelley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Shoreham Burg.</head>
+                  <item>John Alford Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Herbert Sprungett Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Bramber Burg.</head>
+                  <item>James Temple Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Arther Onſlow Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Steynings Burg.</head>
+                  <item>Edward Anneſley Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Herbert Bord Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Eaſtgrinſted Burg.</head>
+                  <item>Robert Goodwyn Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Baker Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Arundell Burg.</head>
+                  <item>John Downes Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Herbert Hay Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Weſtmer<g ref="char:EOLhyphen"/>land.</head>
+               <list>
+                  <pb n="11" facs="tcp:110919:7"/>
+                  <item>
+                     <hi>IAmes Bellingham Eſ<abbr>q</abbr>
+                     </hi> 
+                  </item>
+                  <item>
+                     <hi>Henry Laurence Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Appleby Burg.</head>
+                  <item>Henry Ireton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Richard Salway Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Wiltſhire.</head>
+               <list>
+                  <item>
+                     <hi>IAmes Herbert Eſquire.</hi> 
+                  </item>
+                  <item>
+                     <hi>Edmond Ludlow Eſquire.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Salisbury City.</head>
+                  <item>Michael Oldeſworth Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Dove Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Wilton Burg.</head>
+                  <item>Henry Vane Knight.</item>
+                  <item>Benjamin Rudiard Kt.</item>
+               </list>
+               <list>
+                  <head>Dounton Burg.</head>
+                  <item>Allex. Thiſtlewayt Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Hyndon Burg.</head>
+                  <item>George Reynolds Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Heitsbury Burg.</head>
+                  <item>Thomas Moore Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Aſhe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Weſtbury Burg.</head>
+                  <item>William Wheeler Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Aſhe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Calne Burg.</head>
+                  <item>Hugh Rogers Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Rowland Wilſon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Deviſes Burg.</head>
+                  <item>Edward Baynton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Robert Nicholas Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Chippenham Burg.</head>
+                  <item>Edward Baynton Knight.</item>
+                  <item>Edward Hungerford Kt. of the Bath.</item>
+               </list>
+               <list>
+                  <head>Malmſbury Burg.</head>
+                  <item>Nevill Poole Knight.</item>
+                  <item>John Danvers Knight.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Kirkelade</hi> alias <hi>Cirkelade.</hi>
+                  </head>
+                  <item>Robert Jenner Eſq.</item>
+                  <item>Thomas Hodges Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Bedwyn Burg.</head>
+                  <item>Henry Hungerford Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Harvy Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Lurguſhall Burg.</head>
+                  <item>John Evelin Knight.</item>
+                  <item>Walter Long Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Old Salip Burg.</head>
+                  <item>Robert Cecyll Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Rich. Lucie Kt. and Bar.</item>
+               </list>
+               <list>
+                  <head>VVotton Baſſet Burg.</head>
+                  <item>Edward Poole Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Maſley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Marleburge.</head>
+                  <item>Philip Smith Eſquire.</item>
+                  <item>Charles Fleetwood Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Worceſter<g ref="char:EOLhyphen"/>ſhire.</head>
+               <list>
+                  <pb n="12" facs="tcp:110919:8"/>
+                  <item>
+                     <hi>JOhn Wilde Eſquire, Serje<g ref="char:EOLhyphen"/>ant at Law.</hi> 
+                  </item>
+                  <item>
+                     <hi>Humfry Salway Eſ<abbr>q</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>VVorceſter City.</head>
+                  <item>John Coucher Eſquire.</item>
+                  <item>John Naſhe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Droitwich Burg.</head>
+                  <item>Thomas Rainesburgh Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Edward Wyld Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Eveſham Burg.</head>
+                  <item>Richard Creſwell Serjeant at Law.</item>
+                  <item>Samuel Gardiner Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Bewdley Burg.</head>
+                  <item> </item>
+               </list>
+            </div>
+            <div type="county">
+               <list>
+                  <head>Warwick<g ref="char:EOLhyphen"/>ſhire.</head>
+                  <item>
+                     <hi>IOhn Burgoine Baronet.</hi> 
+                  </item>
+                  <item>
+                     <hi>Thomas Boughton</hi> Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Coventry Citie</head>
+                  <item>John Barker Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William Ieſſon Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Werwick Towne.</head>
+                  <item>William Pureſey Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Godfrey Boſvile Eſ<abbr>q</abbr> 
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>Yorkeſhire.</head>
+               <list>
+                  <head>York Citie.</head>
+                  <item>William Alanſon Knight.</item>
+                  <item>Thomas Hoyle Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Kingſton upon Hull.</head>
+                  <item>Henry Vane Knight Jun.</item>
+                  <item>Peregrine Pelham Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Knareſourgh</head>
+                  <item>Wil. Conſtable Baronet.</item>
+                  <item>John Stockdale Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Scarborough.</head>
+                  <item>Lucas Robinſon Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Alaby Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Rippon.</head>
+                  <item>John Bourchier Knight.</item>
+                  <item>Charles Egerton Knight.</item>
+               </list>
+               <list>
+                  <head>Richmond.</head>
+                  <item>Thomas Challoner Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Francis Thorp Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Heydon.</head>
+                  <item>William Strickland Kt.</item>
+                  <item>John Allured Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Burrowbridge.</head>
+                  <item>Tho. Malevoter Baronet.</item>
+                  <item>Henry Stapleton Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Thuſke alias Thriſke.</head>
+                  <item>Francis Laſſels Eſquire.</item>
+                  <item>William Ayſcoughe Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Autoburgh.</head>
+                  <item>Bryan Stapleton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>James Challenor Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Beverley Burg.</head>
+                  <item>John Nelthorp Eſ<abbr>q</abbr>
+                  </item>
+                  <item>James Nelthorp Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <pb n="13" facs="tcp:110919:8"/>
+                  <head>Pomfret Burg.</head>
+                  <item>Henry Arthington Eſ<abbr>q</abbr>
+                  </item>
+                  <item>William White Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Allerton Burg.</head>
+                  <item>Henry Darley Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Waſtell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Malton Burg.</head>
+                  <item>Henry Cholmley Knight.</item>
+                  <item>Richard Darley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="coastal_towns">
+               <head>The Cinque ports.</head>
+               <list>
+                  <head>Haſtings.</head>
+                  <item>IOhn Pelham Eſ<abbr>q</abbr> 
+                  </item>
+                  <item>Roger Gratwich Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Winchelſea.</head>
+                  <item>Henry Oxenden Eſ<abbr>q</abbr>
+                  </item>
+                  <item>Samnel Gott Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Rye.</head>
+                  <item>William Hay Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Fagg Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Rumney.</head>
+                  <item>Norton Knatchbull Bar.</item>
+                  <item>Richard Browne Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Heith.</head>
+                  <item>Henry Heyman Baronet.</item>
+                  <item>Thomas Weſtrow Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Dover.</head>
+                  <item>Benjamin Weſton Eſ<abbr>q</abbr>
+                  </item>
+                  <item>John Dixwell Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Sandwich.</head>
+                  <item>Edward Partridge Bar</item>
+                  <item>Charles Riche Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Seaford.</head>
+                  <item>Thomas Parker Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+            </div>
+            <div type="country">
+               <head>WALES.</head>
+               <list>
+                  <head>ANgleſey Beaumaris.</head>
+                  <item>William Jones Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Breckneckſhire.</head>
+                  <item> </item>
+               </list>
+               <list>
+                  <head>Brecknock Towne.</head>
+                  <item>Lodovicus Lewes Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Cardiganſhire.</head>
+                  <item>Richard Price, Knight and Baronet.</item>
+               </list>
+               <list>
+                  <pb n="14" facs="tcp:110919:9"/>
+                  <head>Cardigan Towne</head>
+                  <item>Thomas Wogan Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Carmarthenſhire.</head>
+                  <item>John Loyd Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Carmarthen Towne.</head>
+                  <item>William Davis Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Camarvonſhire.</head>
+                  <item>Richard Wynn Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Carnarvon Towne.</head>
+                  <item>William Foxwiſt Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Denbigheſhire.</head>
+                  <item>Thomas Middleton Kt.</item>
+               </list>
+               <list>
+                  <head>Denbighe Towne.</head>
+                  <item>Simon Thelwall <hi>jun.</hi> Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Flyntſhire.</head>
+                  <item>John Trevor Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Flynt Towne.</head>
+                  <item>Thomas Middleton Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Glamorganſhire.</head>
+                  <item>Philip Lord Herbert.</item>
+               </list>
+               <list>
+                  <head>Cardiffe Towne.</head>
+                  <item>Algernoune Sidney Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Mere<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ethſhire</head>
+                  <item>John Jones</item>
+               </list>
+               <list>
+                  <head>Pembrokeſhire.</head>
+                  <item>Arther Owen Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Haverford weſt.</head>
+                  <item>Robert Needham Kt.</item>
+               </list>
+               <list>
+                  <head>Pembroke Towne.</head>
+                  <item>Hugh Owen Knight.</item>
+               </list>
+               <list>
+                  <head>Mountgomeryſhire.</head>
+                  <item>Edward Vaughan Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Mountgomery Towne.</head>
+                  <item>George Devoreux Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Radnorſhire.</head>
+                  <item>Arther Anneſley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>Kadnor Towne.</head>
+                  <item>Robert Harley Eſ<abbr>q</abbr>
+                  </item>
+               </list>
+               <p>
+                  <hi>Henry Elſynge</hi> Eſ<abbr>q</abbr> Clearke of the Parliament for the Commons Houſe.</p>
+               <p>
+                  <hi>Edward Birkhead</hi> Eſ<abbr>q</abbr> Ser<g ref="char:EOLhyphen"/>jeant at Armes.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
